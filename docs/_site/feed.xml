@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East Meets Weast</title>
+    <description>Test Descrition</description>
+    <link>https://testurl.com/</link>
+    <atom:link href="https://testurl.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 08 May 2021 13:31:40 +0800</pubDate>
+    <lastBuildDate>Sat, 08 May 2021 13:31:40 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;h2 id=&quot;test-blog-post&quot;&gt;Test Blog Post&lt;/h2&gt;
+
+&lt;p&gt;Hello World&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 May 2021 16:00:00 +0800</pubDate>
+        <link>https://testurl.com/2021/05/08/hello-world/</link>
+        <guid isPermaLink="true">https://testurl.com/2021/05/08/hello-world/</guid>
+        
+        <category>Test Tag</category>
+        
+        <category>Other Test</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

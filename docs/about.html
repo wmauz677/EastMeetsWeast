@@ -1,0 +1,13 @@
+---
+layout: page
+title: "About"
+description: " 关于 "
+header-img: "img/water.jpg"
+multilingual: false
+---
+
+<!-- English Version -->
+<div class="post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
